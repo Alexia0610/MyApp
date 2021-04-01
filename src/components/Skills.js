@@ -12,54 +12,54 @@ class Skills extends Component {
                         <div className="row mt-top">
                             <div className="col s6">
                                 <p>C/C++</p>
-                                <div className="progress grey lighten-1">
+                                <div className="progress red lighten-5">
                                     <div 
-                                        className="determinate blue" 
+                                        className="determinate red lighten-2" 
                                         style={{ width: '89%' }}>
                                     </div>
                                 </div>
                             </div>
                             <div className="col s6">
                                 <p>OOP</p>
-                                <div className="progress grey lighten-1">
+                                <div className="progress red lighten-5">
                                     <div 
-                                        className="determinate blue" 
+                                        className="determinate red lighten-2" 
                                         style={{ width: '90%' }}>
                                     </div>
                                 </div>
                             </div>
                             <div className="col s6">
                                 <p>Java</p>
-                                <div className="progress grey lighten-1">
+                                <div className="progress red lighten-5">
                                     <div 
-                                        className="determinate blue" 
+                                        className="determinate red lighten-2" 
                                         style={{ width: '50%' }}>
                                     </div>
                                 </div>
                             </div>
                             <div className="col s6">
                                 <p>C#</p>
-                                <div className="progress grey lighten-1">
+                                <div className="progress red lighten-5">
                                     <div 
-                                        className="determinate blue" 
+                                        className="determinate red lighten-2" 
                                         style={{ width: '50%' }}>
                                     </div>
                                 </div>
                             </div>
                             <div className="col s6">
                                 <p>PL/SQL</p>
-                                <div className="progress grey lighten-1">
+                                <div className="progress red lighten-5">
                                     <div 
-                                        className="determinate blue" 
+                                        className="determinate red lighten-2" 
                                         style={{ width: '60%' }}>
                                     </div>
                                 </div>
                             </div>
                             <div className="col s6">
                                 <p>PYTHON</p>
-                                <div className="progress grey lighten-1">
+                                <div className="progress red lighten-5">
                                     <div 
-                                        className="determinate blue" 
+                                        className="determinate red lighten-2" 
                                         style={{ width: '30%' }}>
                                     </div>
                                 </div>

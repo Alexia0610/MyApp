@@ -5,7 +5,7 @@ class Navbar extends Component {
     render() {
         return (
             <>
-                <nav className='light-blue darken-4'>
+                <nav className='red lighten-3'>
                     <div className='container'>
                         <div className='nav-wrapper'>
                             <Link to='/' className='brand-logo'>
@@ -33,6 +33,11 @@ class Navbar extends Component {
                                 <li>
                                     <Link to='/volunteering'>
                                         <i className='fas fa-id-badge'></i> Volunteering
+                                    </Link>
+                                </li> 
+                                <li>
+                                    <Link to='/search'>
+                                        <i className='fas fa-search'></i> Search
                                     </Link>
                                 </li> 
                             </ul>

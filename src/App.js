@@ -10,6 +10,8 @@ import Education from './components/Education';
 import Volunteering from './components/Volunteering';
 import Navbar from './components/Navbar';
 import Profile from './components/Profile';
+import Search from './components/Search';
+import Results from './components/Results';
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
           <Route path="/skills" component={Skills} />
           <Route path="/education" component={Education} />
           <Route path="/volunteering" component={Volunteering} />
+          <Route path="/search" component={Search} />
+          <Route path="/results" component={Results} />
         </Switch>
       </>
     </Router>
